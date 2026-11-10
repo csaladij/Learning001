@@ -1,2 +1,8 @@
 # Learning001
-Linkedin Learning course - Learning Github
+
+Linkedin Learning course - Learning GitHub
+
+
+
+This is the readme file. 
+
